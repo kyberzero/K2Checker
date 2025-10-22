@@ -1,0 +1,7 @@
+telethon
+requests
+hashlib
+string
+aiohttp
+aiofiles
+urlparse
