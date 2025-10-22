@@ -2,6 +2,8 @@ telethon
 requests
 aiohttp
 aiofiles
+httpx
+
 
 
 
