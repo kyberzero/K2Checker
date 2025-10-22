@@ -1,7 +1,7 @@
 telethon
 requests
-string
 aiohttp
 aiofiles
 urlparse
+
 
